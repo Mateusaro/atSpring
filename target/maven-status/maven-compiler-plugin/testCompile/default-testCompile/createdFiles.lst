@@ -1,0 +1,5 @@
+com\example\atSpring\controller\AlunoControllerTest.class
+com\example\atSpring\AtSpringApplicationTests.class
+com\example\atSpring\controller\ProfessorControllerTest.class
+com\example\atSpring\controller\DisciplinaControllerTest.class
+com\example\atSpring\controller\NotaControllerTest.class

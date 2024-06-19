@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.atSpring.controller.ProfessorControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.061 s -- in com.example.atSpring.controller.ProfessorControllerTest
